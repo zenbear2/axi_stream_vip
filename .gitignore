@@ -1,0 +1,23 @@
+# Simulation output
+/obj_dir/
+/obj_uvm/
+/logs/
+*.vcd
+*.fst
+/coverage*.dat
+core
+core.*
+
+# Local tool installations and editor/agent state
+/.tools/
+/.agents/
+/.codex/
+/.aws/
+/.vscode/
+/.idea/
+/github_repo/
+__pycache__/
+*.py[cod]
+*.swp
+*~
+.DS_Store
